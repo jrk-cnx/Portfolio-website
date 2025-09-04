@@ -43,7 +43,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1mzNRZaHN1MfXd4zfSuiyDwt0biyxP3OO/view?usp=drivesdk"
+            href="https://flowcv.com/resume/1gqs9bsmn01i"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"

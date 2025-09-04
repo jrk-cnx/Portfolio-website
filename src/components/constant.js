@@ -195,7 +195,7 @@ export const projects = [
       "A clean and responsive portfolio highlighting my developer skills, featured projects, and personal info.",
     image: port,
     tags: ["React JS", "Tailwind CSS"],
-    github: "",
+    github: "https://github.com/jrk-cnx/Portfolio-website",
     webapp: "",
   },
 
